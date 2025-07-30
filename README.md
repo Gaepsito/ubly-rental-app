@@ -1,6 +1,6 @@
 # Ubly Rental Platform 🚗💻
 
-**Estudiante:** Juan Pérez  
+**Estudiante:** Paul Arellano
 **Empresa:** Ubly — Alquiler de autos para conductores de Uber en Illinois  
 **Tecnologías:** Spring Boot, React, Railway (opcional)
 
